@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/exec0.dir/tree.c.o CMakeFiles/exec0.dir/test_api_bt.c.o  -o exec0 

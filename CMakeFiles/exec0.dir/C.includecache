@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/API_Tree__R-I/./tree.h
+
+/home/user/API_Tree__R-I/test_api_bt.c
+./tree.h
+/home/user/API_Tree__R-I/./tree.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/user/API_Tree__R-I/tree.c
+./tree.h
+/home/user/API_Tree__R-I/./tree.h
+stdio.h
+-
+stdlib.h
+-
+
